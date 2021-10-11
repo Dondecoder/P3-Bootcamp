@@ -1,0 +1,8 @@
+While Loops:
+    We can use while loop to loop a boolean expression. While loops continue to execute while a certain condition is truthy, and will
+    end when they become falsy. while loops require more careful setup than for loops, since you have to specify the termination conditions
+    manually. Be carefu! If the condition doesn't become false at some point, your loop will continue forever
+
+In the while.py example we use a while loop to check if a password is correct and in lines 2 - 6 it will check to see if the user input
+    = bananas. The next example uses a while loop to show how it can be used other than the for loop. We use a for loop in lines 9 - 10 and
+    show the equivalent of it as a while loop in lines 13 - 16.   

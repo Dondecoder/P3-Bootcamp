@@ -1,0 +1,12 @@
+For Loops
+
+
+Iterable object is some kind of collection of items, for instance: a list of numbers, a string of characters, a range, etc.
+    item is a new variable that can be called whatever you want 
+    itme references the current position of our iterator within the iterable. It will iterate over (run through) every item of the 
+    collection and then go away when it has visited all items. 
+
+For loops within ranges 
+    Let's print numbers 1 - 7 using our knowledge of looping thru ranges. 
+
+Please see line 5 -9 for reference

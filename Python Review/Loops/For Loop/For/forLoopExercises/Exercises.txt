@@ -1,0 +1,7 @@
+Numbers
+    These exercises utilizes the for loop to loop a specific value in numbers.py we use the for loop to print out numbers 4 and 13 are unlucky
+    and all even numbers are even and all odd numbers are odd. Please refer to lines 10 -17.
+
+Repeater
+    This exercise calls for using the for loop to repeat a statement based on the user input for the question. please see version 3 for
+    more info. 
