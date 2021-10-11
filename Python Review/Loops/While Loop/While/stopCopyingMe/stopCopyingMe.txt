@@ -1,0 +1,2 @@
+These examples are use to do an exercise that uses the while loop to to continue returning a resonse back. Please see tryOut exercise
+also we use the while loop for many more examples. 
