@@ -1,0 +1,1 @@
+This exercise was used to multiply smilley faces using for loops. Refer to exercise for more info
